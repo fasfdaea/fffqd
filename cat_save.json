@@ -1,0 +1,23 @@
+{
+  "name": "акакий",
+  "sex": "male",
+  "age": 0.0,
+  "day": 1,
+  "time": 7.0,
+  "hunger": 55,
+  "thirst": 45,
+  "energy": 80,
+  "happiness": 78,
+  "cleanliness": 72,
+  "health": 100,
+  "bladder": 35,
+  "social": 60,
+  "stress": 20,
+  "weight": 4.5,
+  "helper_cooldown": 0,
+  "location": "дом",
+  "alive": true,
+  "mood": "спокойный",
+  "last_event": "Котик проснулся и потянулся.",
+  "log": []
+}
